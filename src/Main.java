@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Test!");
         System.out.println("Local Commit Test!");
         System.out.println("Local Commit Test2!");
+        System.out.println("remote Commit Test!");
 
     }
 }
